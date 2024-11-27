@@ -1,0 +1,64 @@
+{
+    "objects": {
+        "f3340cba-aa46-4bb0-addb-3204a61ca602": {
+            "obj_id": "f3340cba-aa46-4bb0-addb-3204a61ca602",
+            "bounding_box": [
+                248,
+                209,
+                381,
+                342
+            ],
+            "centroid": [
+                314,
+                275
+            ],
+            "radius": 66,
+            "area": 13684.77759903714
+        },
+        "9dbc4b39-ba29-4255-9bdc-19a8abfd583f": {
+            "obj_id": "9dbc4b39-ba29-4255-9bdc-19a8abfd583f",
+            "bounding_box": [
+                442,
+                312,
+                603,
+                473
+            ],
+            "centroid": [
+                522,
+                392
+            ],
+            "radius": 80,
+            "area": 20106.192982974677
+        },
+        "aeaa8be3-5624-4207-8766-755caebe06c8": {
+            "obj_id": "aeaa8be3-5624-4207-8766-755caebe06c8",
+            "bounding_box": [
+                451,
+                145,
+                622,
+                316
+            ],
+            "centroid": [
+                537,
+                231
+            ],
+            "radius": 85,
+            "area": 22698.006922186254
+        },
+        "4bc73ee6-e655-4280-86de-4879eeb0b094": {
+            "obj_id": "4bc73ee6-e655-4280-86de-4879eeb0b094",
+            "bounding_box": [
+                250,
+                434,
+                399,
+                583
+            ],
+            "centroid": [
+                325,
+                508
+            ],
+            "radius": 74,
+            "area": 17203.36137105771
+        }
+    }
+}

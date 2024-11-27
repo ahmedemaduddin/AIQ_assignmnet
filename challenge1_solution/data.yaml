@@ -1,0 +1,10 @@
+# Ultralytics YOLO format dataset configuration
+train: /home/ahmed/AIQ/Challenge1/yolo_format/train/images
+val: /home/ahmed/AIQ/Challenge1/yolo_format/val/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  - coin
